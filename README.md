@@ -21,7 +21,7 @@ Feel free to browse the code, use it for reference, or suggest improvements.
 
 **Clone the repository**:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https: https://github.com/chaudharykomal/dsa-practice
 
 **Navigate to a topic folder:**
 
